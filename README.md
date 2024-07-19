@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Mohd Shariq</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Shariq</h1>
+<h3 align="center">A passionate Full-Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariqyt&label=Profile%20views&color=0e75b6&style=flat" alt="shariqyt" /> </p>
 
-- 🔭 I’m currently working on React project **VZR - Ecommerce**
+- 🔭 I’m currently working on React project <a href="https://codescloth.netlify.app">**CodesCloth**</a>
 
-- 🌱 I’m currently learning **Reactjs, Node.js, Django, React Native.**
+- 🌱 I’m currently learning **Nextjs, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShariqYT?tab=repositories](https://github.com/ShariqYT?tab=repositories)
 
@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mohd-shariq-4723a1235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-shariq-4723a1235" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohd-shariq-sheikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd-shariq-4723a1235" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
