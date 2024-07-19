@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariqyt&label=Profile%20views&color=0e75b6&style=flat" alt="shariqyt" /> </p>
 
-- 🔭 I’m currently working on Nextjs with Full-Stack project <a href="https://codescloth.netlify.app">**CodesCloth**</a>
+- 🔭 I’m currently working on Nextjs with Full-Stack project <a href="https://codescloth.netlify.app" target="_blank">**CodesCloth**</a>
 
 - 🌱 I’m currently learning **Nextjs, MongoDB**
 
