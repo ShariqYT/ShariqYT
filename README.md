@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nextjs, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShariqYT?tab=repositories](https://github.com/ShariqYT?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/ShariqYT?tab=repositories](https://github.com/ShariqYT?tab=repositories) or <a href="https://shariqdevportfolio.netlify.app">My Portfolio Website</a>
 
 - 📫 How to reach me **shariqmohd737@gmail.com**
 
