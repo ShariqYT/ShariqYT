@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shariqyt&label=Profile%20views&color=0e75b6&style=flat" alt="shariqyt" /> </p>
 
-- 🔭 I’m currently working on Nextjs with Full-Stack project <a href="https://limiturls.netlify.app" target="_blank">**LimitURLs**</a>
-
-- 🌱 I’m currently learning **Nextjs, MongoDB**
+- 🔭 I’m currently working on Freelancing
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShariqYT?tab=repositories](https://github.com/ShariqYT?tab=repositories) or <a href="https://shariqportfolio.vercel.app" target="_blank">My Portfolio Website</a>
 
