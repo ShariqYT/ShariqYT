@@ -86,5 +86,9 @@ I’m a **Full-Stack Web Developer** who crafts modern, user-friendly, and high-
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7F7F7&background=1C1C1C00&center=true&vCenter=true&multiline=true&width=435&lines=Thank+you+for+visiting+my+profile!;Keep+Learning,+Keep+Building!+💡;Let's+Connect+and+Collaborate+🤝" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=F7F7F7&background=1C1C1C00&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Thanks+for+visiting+my+profile!;Keep+Learning+🚀+Keep+Building+💡;Let's+Connect+and+Collaborate+🤝" 
+    alt="Typing SVG" 
+    style="max-width: 100%;" 
+  />
 </p>
