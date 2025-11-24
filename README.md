@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Mohammad Shariq</h1>
-<h3 align="center" style="color: #7e3ace">🚀 Full-Stack Web Developer | India 🇮🇳</h3>
+<h1 align="center">Hi, I'm Mohammad Shariq</h1>
+<h3 align="center" style="color: #7e3ace">Full-Stack Web Developer | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7e3ace&style=flat-square" alt="shariqyt" />
@@ -15,12 +15,12 @@
 
 I'm a **Full-Stack Web Developer** who crafts modern, user-friendly, and high-performance web applications using the latest technologies in both frontend and backend.
 
-- 🎯 Focused on delivering **responsive UI** + **robust backend**
-- 🔭 Currently working on **Freelance Projects**
-- 🧠 Learning **system design** & **performance optimization**
-- 💻 Explore my projects: [GitHub Repositories](https://github.com/ShariqYT?tab=repositories)
-- 🌐 Portfolio: [shariqportfolio.vercel.app](https://shariqportfolio.vercel.app)
-- 📫 Reach me: **shariqmohd737@gmail.com**
+- Focused on delivering **responsive UI** + **robust backend**
+- Currently working on **Freelance Projects**
+- Learning **system design** & **performance optimization**
+- Explore my projects: [GitHub Repositories](https://github.com/ShariqYT?tab=repositories)
+- Portfolio: [shariqportfolio.vercel.app](https://shariqportfolio.vercel.app)
+- Reach me: **shariqmohd737@gmail.com**
 
 ---
 
@@ -45,7 +45,7 @@ I'm a **Full-Stack Web Developer** who crafts modern, user-friendly, and high-pe
 
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend
+#### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -53,18 +53,18 @@ I'm a **Full-Stack Web Developer** who crafts modern, user-friendly, and high-pe
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-#### ⚙️ Backend
+#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 💻 Languages
+#### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🔧 Tools
+#### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
