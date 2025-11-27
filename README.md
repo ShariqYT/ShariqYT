@@ -2,6 +2,7 @@
 <h3 align="center" style="color: #7e3ace">Full-Stack Web Developer | India 🇮🇳</h3>
 
 <p align="center">
+  ![GitHub Views](https://komarev.com/ghpvc/?username=ShariqYT)
   <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7e3ace&style=flat-square" alt="shariqyt" />
 </p>
 
