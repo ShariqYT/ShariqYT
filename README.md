@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7e3ace&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Shariq;Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7e3ace&center=true&vCenter=true&width=440&lines=Hi+I'm+Mohammad+Shariq;Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
 
-<h3 align="center" style="color: #7e3ace">🚀 Full-Stack Web Developer | 🇮🇳 India</h3>
+<h3 align="center" style="color: #7e3ace">Full-Stack Web Developer | 🇮🇳 India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7e3ace&style=flat-square" alt="profile views" />
