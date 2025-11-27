@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=7e3ace&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B+I'm+Mohammad+Shariq;Full-Stack+Developer;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </h1>
@@ -19,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-```javascript
 const shariq = {
     location: "India 🇮🇳",
     role: "Full-Stack Web Developer",
@@ -39,7 +37,6 @@ const shariq = {
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() 🐛"
 };
-```
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -223,4 +220,3 @@ const shariq = {
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7e3ace&style=for-the-badge" alt="profile views" />
 </p>
-```
