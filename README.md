@@ -113,28 +113,6 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShariqYT&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=7e3ace&icon_color=7e3ace&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ShariqYT&theme=radical&hide_border=true&background=0d1117&stroke=7e3ace&ring=7e3ace&fire=7e3ace&currStreakNum=ffffff&sideNums=7e3ace&currStreakLabel=7e3ace" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShariqYT&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=7e3ace&text_color=ffffff&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=ShariqYT&theme=radical&bg_color=0d1117&hide_border=true&title_color=7e3ace&text_color=ffffff" alt="Contribution Stats" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShariqYT&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
 ## 📈 Contribution Graph
 
 <div align="center">
