@@ -36,7 +36,7 @@
 - 🌱 Currently mastering **system design** and **cloud architecture**
 - 💼 Open to **freelance projects** and **collaboration opportunities**
 - 📫 Reach me at: **shariqmohd737@gmail.com**
-- 🌐 Portfolio: **[shariqportfolio.vercel.app](https://shariqportfolio.vercel.app)**
+- 🌐 Portfolio: **[shariqmohammad.vercel.app](https://shariqmohammad.vercel.app)**
 
 <br/>
 
@@ -49,7 +49,7 @@
   <a href="mailto:shariqmohd737@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://shariqportfolio.vercel.app" target="_blank">
+  <a href="https://shariqmohammad.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/ShariqYT" target="_blank">
@@ -168,7 +168,7 @@ Feel free to reach out! I'm open to **freelance projects**, **collaborations**, 
   
 ### 📧 **shariqmohd737@gmail.com**
 
-<a href="https://shariqportfolio.vercel.app" target="_blank">
+<a href="https://shariqmohammad.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/View%20My%20Portfolio-7e3ace?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
 </a>
 <a href="https://www.linkedin.com/in/mohd-shariq-sheikh" target="_blank">
