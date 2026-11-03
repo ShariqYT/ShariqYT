@@ -1,190 +1,179 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7e3ace&center=true&vCenter=true&width=600&lines=I'm+Mohammad+Shariq;Full-Stack+Web+Developer;Building+Modern+Web+Solutions" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7e3ace&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ShariqYT?label=Followers&style=flat-square&color=7e3ace" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ShariqYT?label=Total%20Stars&style=flat-square&color=7e3ace" alt="Stars" />
-</p>
+# Hi, I'm Mohammad Shariq
 
 <div align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="400" alt="Coding animation" style="border-radius:20px" />
-</div>
 
-<br/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Building+Modern+Web+Applications;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
 
-## 👨‍💻 About Me
+  <p>
+    <strong>Full-Stack Web Developer | React.js | Next.js | Node.js</strong>
+  </p>
 
-<table>
-<tr>
-<td>
+  <p>
+    I build modern, responsive, and scalable web applications with a focus on clean code, great user experiences, and reliable backend systems.
+  </p>
 
-**🌍 Location:** India 🇮🇳  
-**💼 Role:** Full-Stack Web Developer  
-**🎯 Current Focus:** System Design • Performance Optimization • Clean Architecture  
-**🚀 Working On:** Freelance Projects & Open Source  
-**💡 Available For:** Freelance Projects, Collaborations & Full-time Opportunities  
-**☕ Fun Fact:** I turn coffee into code → 💻
+  <p>
+    <a href="https://shariqmohammad.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mohd-shariq-sheikh">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:shariqmohd737@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-</td>
-</tr>
-</table>
-
-- 🔭 Building **modern, scalable, and performant** web applications
-- 🎯 Specializing in **end-to-end development** from UI/UX to deployment
-- 🌱 Currently mastering **system design** and **cloud architecture**
-- 💼 Open to **freelance projects** and **collaboration opportunities**
-- 📫 Reach me at: **shariqmohd737@gmail.com**
-- 🌐 Portfolio: **[shariqmohammad.vercel.app](https://shariqmohammad.vercel.app)**
-
-<br/>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohd-shariq-sheikh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:shariqmohd737@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://shariqmohammad.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/ShariqYT" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>Frontend Development</b></summary>
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-</details>
-
-<details open>
-<summary><b>Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-</details>
-
-<details open>
-<summary><b>Programming Languages</b></summary>
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-</details>
-
-<details open>
-<summary><b>Tools & Technologies</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-</details>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShariqYT&bg_color=0d1117&color=7e3ace&line=7e3ace&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
-<br/>
-
-## 🎯 Current Projects & Focus
-
-- 🚀 Building scalable web applications with **Next.js** and **Node.js**
-- 🎨 Creating intuitive user interfaces with **React** and **TailwindCSS**
-- 🔧 Implementing **RESTful APIs** and **database optimization**
-- 📱 Developing responsive and **mobile-first** designs
-- 🔐 Implementing secure **authentication** and **authorization** systems
-
-<br/>
-
-## 💡 What I Offer
-
-```yaml
-services:
-  - Full-Stack Web Development
-  - Custom Website & Web Applications
-  - API Development & Integration
-  - Database Design & Optimization
-  - UI/UX Implementation
-  - Performance Optimization
-  - Bug Fixes & Maintenance
-  - Technical Consultation
-
-specializations:
-  - MERN Stack (MongoDB, Express, React, Node.js)
-  - Next.js Full-Stack Applications
-  - Firebase Integration
-  - Responsive Design
-  - Clean Code & Best Practices
-```
-
-<br/>
-
-## 📫 Let's Work Together!
-
-I'm always interested in hearing about new projects and opportunities. Whether you need:
-- A complete web application
-- Frontend or backend development
-- Technical consultation
-- Code review or optimization
-
-Feel free to reach out! I'm open to **freelance projects**, **collaborations**, and **full-time opportunities**.
-
-<div align="center">
-  
-### 📧 **shariqmohd737@gmail.com**
-
-<a href="https://shariqmohammad.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/View%20My%20Portfolio-7e3ace?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/mohd-shariq-sheikh" target="_blank">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ShariqYT&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/ShariqYT?label=Followers&style=flat-square&color=7C3AED" alt="GitHub Followers" />
+  </p>
 
 </div>
-
-<br/>
 
 ---
 
+## 👨‍💻 About Me
+
+- 🌍 Based in **India**
+- 💼 **Full-Stack Web Developer**
+- 🚀 Building modern web applications from frontend to backend.
+- 🎨 Passionate about clean UI, responsive layouts, and smooth user experiences.
+- ⚙️ Experienced with REST APIs, database integration, and authentication systems.
+- 🌱 Currently exploring **System Design, Clean Architecture, and Performance Optimization**.
+- 🤝 Open to freelance projects, collaborations, and full-time opportunities.
+- 📫 Email: **[shariqmohd737@gmail.com](mailto:shariqmohd737@gmail.com)**
+- 🌐 Portfolio: **[shariqmohammad.vercel.app](https://shariqmohammad.vercel.app)**
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+</p>
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+</p>
+
+---
+
+## 🚀 What I Build
+
+I enjoy developing complete web solutions, from planning and interface design to backend implementation and deployment.
+
+- 🌐 Full-stack websites and web applications
+- ⚛️ Modern frontend development with React and Next.js
+- 🔌 REST API development and third-party integrations
+- 🗄️ Database design and integration
+- 🔐 Authentication and authorization systems
+- 📱 Responsive and mobile-first interfaces
+- ⚡ Performance optimization and bug fixing
+- 🛠️ Website maintenance and feature development
+
+## 🎯 Current Focus
+
+- Building scalable applications with **Next.js and Node.js**.
+- Creating polished interfaces with **React and Tailwind CSS**.
+- Improving backend architecture and database performance.
+- Learning more about system design and application security.
+- Building practical projects and expanding my developer portfolio.
+
+## 📊 GitHub Statistics
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7e3ace&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together+%F0%9F%9A%80;Full-stack+solutions+with+clean+code+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1" alt="Footer" />
+
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=ShariqYT&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&rank_icon=github"
+    alt="GitHub Statistics" />
+
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShariqYT&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED"
+    alt="Most Used Languages" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ShariqYT/ShariqYT/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ShariqYT/ShariqYT/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/ShariqYT/ShariqYT/output/github-snake.svg"
+      width="100%"
+    />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Work Together!
+
+Have an idea for a website, web application, or digital product? I'm always happy to discuss interesting projects and opportunities.
+
+**Let's turn your ideas into something useful.**
+
+<div align="center">
+
+  <a href="mailto:shariqmohd737@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-Contact%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+  <a href="https://shariqmohammad.vercel.app">
+    <img src="https://img.shields.io/badge/Explore-My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore My Portfolio" />
+  </a>
+
+  <br /><br />
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Footer Message" />
+
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7e3ace&height=100&section=footer" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" alt="Purple footer wave" />
 </div>
