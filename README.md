@@ -120,21 +120,16 @@ I enjoy developing complete web solutions, from planning and interface design to
 ## 📊 GitHub Statistics
 
 <div align="center">
-
   <img
+    width="48%"
     src="https://github-stats-extended.vercel.app/api?username=ShariqYT&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=7C3AED&rank_icon=github"
     alt="GitHub Statistics"
-    width="100%"
   />
-
-  <br />
-
   <img
+    width="48%"
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShariqYT&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED"
     alt="Most Used Languages"
-    width="100%"
   />
-
 </div>
 
 ## 📈 Contribution Activity
@@ -166,7 +161,10 @@ Have an idea for a website, web application, or digital product? I'm always happ
 
   <br /><br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together;Keep+Learning.+Keep+Building.+Keep+Growing." alt="Footer Message" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Keep+Learning.+Keep+Building.+Keep+Growing."
+    alt="Footer Animation"
+  />
 
 </div>
 
